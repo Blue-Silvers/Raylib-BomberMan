@@ -1,0 +1,7 @@
+﻿  Exit.cpp
+C:\Users\fury8\Downloads\Raylib-BomberMan\Exit.cpp(33,47): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\fury8\Downloads\Raylib-BomberMan\Exit.cpp(33,35): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\fury8\Downloads\Raylib-BomberMan\Exit.cpp(33,26): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\fury8\Downloads\Raylib-BomberMan\Exit.cpp(33,17): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
+C:\Users\fury8\Downloads\Raylib-BomberMan\Exit.cpp(27): warning C4715: 'Exit::Update' : les chemins de contrôle ne retournent pas tous une valeur
+  Raylib Starter Project.vcxproj -> C:\Users\fury8\Downloads\Raylib-BomberMan\x64\Debug\Raylib Starter Project.exe
